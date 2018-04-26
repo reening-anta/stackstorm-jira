@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.7.2
+
+- Add new ``jira.update_issue`` action
+
 ## 0.7.1
 
 - Return custom fields in formatter
